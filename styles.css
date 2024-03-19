@@ -26,8 +26,7 @@ h1{
 }
 
 #my-image{
-    height: 150px;
-    width: 150px;
+    height: 150px;   
 }
 
 #my-projects{
@@ -46,7 +45,6 @@ h1{
 }
 
 .project-image{
-    width: 200px;
     height: 200px;
     border-radius: 10px;
 }
