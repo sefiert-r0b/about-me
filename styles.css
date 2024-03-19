@@ -4,11 +4,12 @@ body{
 }
 
 #heading{
-    text-align: center;
+    text-align: left;
     background-color: cornflowerblue;
     padding: 20px;
     font-size: 20px;
     display: flex;
+    justify-content: space-between;
 }
 
 h1{
